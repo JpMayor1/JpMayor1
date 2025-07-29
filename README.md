@@ -3,7 +3,7 @@
 ###
 
 ℹ️ **About Me:**<br>- James Phillip A. Mayor<br>- Full Stack Developer<br>- 24 y/o<br><br>
-📖 **Learnings:**<br>- Web Development<br>- DevOps<br>- Network Administrator<br><br>
+📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br><br>
 ⏰ **Free Time Activities:**<br>- Freelancing<br>- Developing Personal Projects<br>- Watching Tutorials
 
 ---
