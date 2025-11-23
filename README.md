@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G/view?usp=drive_link" alt="Cover photo" />
+<img src="https://drive.google.com/file/d/1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G/view?usp=sharing" alt="Cover photo" />
 
 ###
 
