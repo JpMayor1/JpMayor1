@@ -28,7 +28,7 @@ Freelancing • Building Apps • Learning New Tech • Watching Tutorials
 
 <h3 align="left">🛠 Technologies</h3>
 
-### Programming Language
+### Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
