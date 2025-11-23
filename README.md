@@ -1,8 +1,22 @@
-ℹ️ **About Me:**<br>- Full Stack Developer<br>- 24 y/o<br><br>
-📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br>- AI automation<br><br>
-⏰ **Free Time Activities:**<br>- Freelancing<br>- Developing Personal Projects<br>- Watching Tutorials
-
+Full-Stack Developer • AI Automation • DevOps Learner
+<div align="center"> <img src="https://drive.google.com/uc?id=1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G" width="100%" alt="banner"/> </div>
 ---
+
+<style> @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } } .fade-in { animation: fadeIn 0.8s ease-in-out; } </style>
+
+<div align="center" class="fade-in">
+ℹ️ About Me
+</br>
+Full-Stack Developer • 24 y/o • Passionate about systems, automation, and clean user experiences
+
+📖 What I’m Learning
+</br>
+Web Dev • Software Dev • DevOps • Network Admin • AI Automation
+
+⏰ In My Free Time
+</br>
+Freelancing • Building Apps • Learning New Tech • Watching Tutorials
+</div>
 
 <h3 align="left">🛠 Technologies</h3>
 
@@ -83,22 +97,25 @@
 
 ---
 
-### 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=JpMayor1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=JpMayor1&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMayor1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=JpMayor1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🚀 Let's Connect!
-<div align="left">
-  <a href="https://www.linkedin.com/in/james-phillip-mayor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://jamesphillipmayor.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=firefox" alt="Portfolio Badge" />
-  </a>
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JpMayor1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=JpMayor1&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMayor1&theme=tokyonight&layout=compact&hide_border=false" height="160"/>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JpMayor1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10"/>
+</div>
+
+---
+
+🚀 Let’s Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/james-phillip-mayor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://jamesphillipmayor.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=flat&logo=firefox&logoColor=white"/>
+  </a>
+</div>
