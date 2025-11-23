@@ -5,7 +5,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G" width="100%" alt="banner"/>
+  <img src="https://drive.google.com/uc?id=1p-XkVSdYb7uYftFud2I0IbzfXxn9kLXl" width="100%" alt="banner" />
 </div>
 
 ---
@@ -97,6 +97,15 @@ Freelancing • Building Apps • Learning New Tech • Watching Tutorials
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" />
+</div>
+
+### AI & Automation
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" height="40" />
+  <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/gemini-color.png" height="40" />
+  <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" height="40" />
 </div>
 
 ---
