@@ -1,4 +1,4 @@
-ℹ️ **About Me:**- Full Stack Developer<br>- 24 y/o<br><br>
+ℹ️ **About Me:**<br>- Full Stack Developer<br>- 24 y/o<br><br>
 📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br>- AI automation<br><br>
 ⏰ **Free Time Activities:**<br>- Freelancing<br>- Developing Personal Projects<br>- Watching Tutorials
 
