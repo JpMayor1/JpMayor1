@@ -2,8 +2,6 @@ Full-Stack Developer • AI Automation • DevOps Learner
 <div align="center"> <img src="https://drive.google.com/uc?id=1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G" width="100%" alt="banner"/> </div>
 ---
 
-<style> @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } } .fade-in { animation: fadeIn 0.8s ease-in-out; } </style>
-
 <div align="center" class="fade-in">
 ℹ️ About Me
 </br>
