@@ -1,16 +1,21 @@
-<h1 align="center">👋 Hello and Welcome!</h1>
+<img src="https://drive.google.com/file/d/1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G/view?usp=drive_link" alt="Cover photo" />
 
 ###
 
-ℹ️ **About Me:**<br>- James Phillip A. Mayor<br>- Full Stack Developer<br>- 24 y/o<br><br>
-📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br><br>
+ℹ️ **About Me:**- Full Stack Developer<br>- 24 y/o<br><br>
+📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br>- AI automation<br><br>
 ⏰ **Free Time Activities:**<br>- Freelancing<br>- Developing Personal Projects<br>- Watching Tutorials
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JpMayor1&label=Profile%20views&color=0e75b6&style=flat" alt="JpMayor1" /> </p>
-
 <h3 align="left">🛠 Technologies</h3>
+
+### Programming Language
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+</div>
 
 ### Frontend
 <div align="left">
@@ -18,21 +23,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="zustand logo" />
+  <img width="12" />
 </div>
 
 ### Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
@@ -45,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
+  <img width="12" />
 </div>
 
 ### Tools & Other
@@ -68,6 +74,18 @@
 </div>
 
 ### OS & Servers
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare logo" />
+  <img width="12" />
+</div>
+
+### AI & Automation
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo" />
   <img width="12" />
