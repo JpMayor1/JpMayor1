@@ -1,7 +1,3 @@
-<img src="https://drive.google.com/file/d/1cuxDKLyZpYF4wiBJmo1czaxzax2p2o3G/view?usp=sharing" alt="Cover photo" />
-
-###
-
 ℹ️ **About Me:**- Full Stack Developer<br>- 24 y/o<br><br>
 📖 **Learnings:**<br>- Web Development<br>- Software Development<br>- DevOps<br>- Network Administrator<br>- AI automation<br><br>
 ⏰ **Free Time Activities:**<br>- Freelancing<br>- Developing Personal Projects<br>- Watching Tutorials
